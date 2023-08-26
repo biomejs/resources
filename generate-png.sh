@@ -21,5 +21,5 @@ done
 f=./icon/biome-icon.svg
 for size in 16x16 32x32 180x180 192x192 512x512; do
     printf "Generate %s\n" "${f%.*}-$size.png"
-    svg_to_png "$f" "$size"
+    svg_to_resized_png "$f" "$size"
 done
