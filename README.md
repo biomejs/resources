@@ -1,4 +1,4 @@
 # resources
 
-Static resourses of the organization
+Static resources of the organization
 
