@@ -1,0 +1,138 @@
+{
+  "colors": {
+    "black": "#151515",
+    "blue": "#60a5fa",
+    "grey": "#969696",
+    "white": "#f6f6f9",
+    "transparent": "none"
+  },
+  "themes": {
+    "light": {
+      "#emblem": "blue",
+      "#wordmark": "black",
+      "#slogan": "grey",
+      "#background": "white"
+    },
+    "dark": {
+      "#emblem": "blue",
+      "#wordmark": "white",
+      "#slogan": "grey",
+      "#background": "black"
+    },
+    "light-transparent": {
+      "#emblem": "blue",
+      "#wordmark": "black",
+      "#slogan": "grey",
+      "#background": "transparent"
+    },
+    "dark-transparent": {
+      "#emblem": "blue",
+      "#wordmark": "white",
+      "#slogan": "grey",
+      "#background": "transparent"
+    },
+    "light-mono": {
+      "#emblem": "black",
+      "#wordmark": "black",
+      "#slogan": "black",
+      "#background": "white"
+    },
+    "dark-mono": {
+      "#emblem": "white",
+      "#wordmark": "white",
+      "#slogan": "white",
+      "#background": "black"
+    },
+    "light-mono-transparent": {
+      "#emblem": "black",
+      "#wordmark": "black",
+      "#slogan": "black",
+      "#background": "transparent"
+    },
+    "dark-mono-transparent": {
+      "#emblem": "white",
+      "#wordmark": "white",
+      "#slogan": "white",
+      "#background": "transparent"
+    }
+  },
+  "files": [
+    {
+      "path": "./prototype/icon.svg",
+      "themes": [
+        "light",
+        "dark",
+        "light-transparent",
+        "dark-transparent",
+        "light-mono",
+        "dark-mono",
+        "light-mono-transparent",
+        "dark-mono-transparent"
+      ],
+      "scale": [1, 2, 4, 8]
+    },
+    {
+      "path": "./prototype/logo.svg",
+      "themes": [
+        "light",
+        "dark",
+        "light-transparent",
+        "dark-transparent",
+        "light-mono",
+        "dark-mono",
+        "light-mono-transparent",
+        "dark-mono-transparent"
+      ],
+      "scale": [1, 2, 4, 8]
+    },
+    {
+      "path": "./prototype/slogan.svg",
+      "themes": [
+        "light",
+        "dark",
+        "light-transparent",
+        "dark-transparent",
+        "light-mono",
+        "dark-mono",
+        "light-mono-transparent",
+        "dark-mono-transparent"
+      ],
+      "scale": [1, 2, 4, 8]
+    },
+    {
+      "path": "./prototype/banner-2-1.svg",
+      "themes": ["dark", "light"],
+      "scale": [1]
+    },
+    {
+      "path": "./prototype/banner-3-1.svg",
+      "themes": ["dark", "light"],
+      "scale": [1]
+    },
+    {
+      "path": "./prototype/banner-16-9.svg",
+      "themes": ["dark", "light"],
+      "scale": [1]
+    },
+    {
+      "path": "./prototype/banner-21-9.svg",
+      "themes": ["dark", "light"],
+      "scale": [1]
+    },
+    {
+      "path": "./prototype/bg-16-9-4K.svg",
+      "themes": ["dark", "light"],
+      "scale": [1]
+    },
+    {
+      "path": "./prototype/bg-21-9-5K.svg",
+      "themes": ["dark", "light"],
+      "scale": [1]
+    },
+    {
+      "path": "./prototype/bg-32-9-dual-4K.svg",
+      "themes": ["dark", "light"],
+      "scale": [1]
+    }
+  ]
+}
