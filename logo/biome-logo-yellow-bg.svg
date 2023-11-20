@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1374" height="483" version="1.0" xmlns="http://www.w3.org/2000/svg">
- <rect width="100%" height="100%" fill="#151515"/>
- <g transform="translate(-10.267 17.12)" stroke-linecap="square">
-  <path d="m245.06 75.173-76.751 132.93c29.122-8.9782 60.452-10.309 90.821-3.146l25.939 6.1226-24.404 103.48-25.976-6.1224c-19.954-4.7072-40.754-0.043-56.841 12.674-8.0467 6.3645-14.386 14.355-18.731 23.319l-24.01-11.616c6.0744-12.545 14.955-23.736 26.172-32.616 22.439-17.761 51.695-24.284 79.549-17.712l12.165-51.574c-43.577-10.273-89.504-0.04318-124.61 27.744-35.106 27.785-55.611 70.142-55.611 114.91l344.58 0.01z" fill="#60a5fa" stroke-width="26.257" style="paint-order:markers fill stroke"/>
-  <text x="467.87839" y="341.18945" fill="#f6f6f9" font-family="'DM Serif Display'" font-size="272px" letter-spacing="2.125px" stroke-width="68.489" style="paint-order:markers stroke fill" xml:space="preserve"><tspan x="467.87839" y="341.18945" fill="#f6f6f9" font-family="'Plus Jakarta Sans'" font-size="272px" font-weight="800" stroke-width="68.489" style="font-feature-settings:'ss02';font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Biome</tspan></text>
- </g>
-</svg>

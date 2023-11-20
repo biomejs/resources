@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1920" height="1080" version="1.0" xmlns="http://www.w3.org/2000/svg">
- <rect width="100%" height="100%" fill="#151515"/>
- <g transform="matrix(.91742 0 0 .91742 -18.941 63.092)" stroke-linecap="square">
-  <path d="m504.28 324.42-100.52 174.1c38.142-11.759 79.175-13.502 118.95-4.1203l33.972 8.0189-31.963 135.53-34.021-8.0186c-26.134-6.165-53.376-0.0564-74.445 16.599-10.539 8.3357-18.841 18.801-24.532 30.541l-31.446-15.214c7.9554-16.431 19.586-31.087 34.278-42.717 29.389-23.262 67.705-31.806 104.19-23.197l15.933-67.546c-57.073-13.455-117.22-0.0564-163.2 36.337-45.978 36.39-72.835 91.866-72.835 150.5l451.29 7e-3z" fill="#60a5fa" stroke-width="34.389" style="paint-order:markers fill stroke"/>
-  <text x="799.19147" y="615.05823" fill="#f6f6f9" font-family="'DM Serif Display'" font-size="336.48px" letter-spacing="2.6287px" stroke-width="89.994" style="paint-order:markers stroke fill" xml:space="preserve"><tspan x="799.19147" y="615.05823" fill="#f6f6f9" font-family="'Plus Jakarta Sans'" font-size="336.48px" font-weight="800" stroke-width="89.994" style="font-feature-settings:'ss02';font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Biome</tspan></text>
-  <text x="820.68719" y="714.47681" fill="#ffffff" font-family="'Plus Jakarta Sans'" font-size="64.635px" font-weight="800" letter-spacing="12.872px" opacity=".55425" stroke-width="89.994" style="font-feature-settings:'ss02';font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0;paint-order:markers stroke fill" xml:space="preserve"><tspan x="820.68719" y="714.47681" fill="#ffffff" letter-spacing="12.872px" stroke-width="89.994">TOOLCHAIN OF THE WEB</tspan></text>
- </g>
-</svg>
