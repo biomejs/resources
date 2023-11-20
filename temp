@@ -1,0 +1,36 @@
+#!/bin/sh
+set -eu
+
+# svg_to_png <svg-file-path> [height-in-px]
+svg_to_png() {
+    outfile="${1%.*}-x$2.png"
+    printf 'Generating... %s\r' "$1"
+    #rsvg-convert --output="$outfile" --dpi-x=300 --dpi-y=300 --height="$2" "$1"
+    #gm convert -background none -resize "x$2" "$1" "$outfile"
+    rsvg-convert -o "$outfile" "$1"
+    pngquant -o out.png --strip --speed 1 "$outfile"
+    mv --force out.png "$outfile"
+    printf 'Generated %s\n' "$outfile"
+}
+
+for f in ./background/*.svg; do
+    svg_to_png "$f" 2160
+done
+
+for f in ./background/biome-banner-16-9-yellow-bg-2.svg ./banner/*.svg; do
+    svg_to_png "$f" 1080
+done
+
+for f in ./icon/*.svg; do
+    for height in 16 32 180 192 512; do
+        svg_to_png "$f" "$height"
+    done
+done
+
+for f in ./logo/*.svg; do
+    svg_to_png "$f" 483
+done
+
+for f in ./logo-slogan/*.svg; do
+    svg_to_png "$f" 600
+done
