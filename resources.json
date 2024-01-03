@@ -72,6 +72,20 @@
       "scale": [1, 2, 4, 8]
     },
     {
+      "path": "./prototype/icon-border.svg",
+      "themes": [
+        "light",
+        "dark",
+        "light-transparent",
+        "dark-transparent",
+        "light-mono",
+        "dark-mono",
+        "light-mono-transparent",
+        "dark-mono-transparent"
+      ],
+      "scale": [1, 2, 4, 8]
+    },
+    {
       "path": "./prototype/logo.svg",
       "themes": [
         "light",
