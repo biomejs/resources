@@ -147,6 +147,21 @@
       "path": "./prototype/bg-32-9-dual-4K.svg",
       "themes": ["dark", "light"],
       "scale": [1]
+    },
+    {
+      "path": "./prototype/mascotte.svg",
+      "themes": ["light"],
+      "scale": [1,2,4,8]
+    },
+    {
+      "path": "./prototype/mascotte_cookie.svg",
+      "themes": ["light"],
+      "scale": [1,2,4,8]
+    },
+    {
+      "path": "./prototype/mascotte_popcorn.svg",
+      "themes": ["light"],
+      "scale": [1,2,4,8]
     }
   ]
 }
